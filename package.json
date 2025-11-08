@@ -13,7 +13,7 @@
     "@types/node-fetch": "^2.6.11",
     "expand-tilde": "^2.0.2",
     "yaml": "^2.3.4",
-    "zod": "^3.22.4"
+    "zod": "^3.25.76"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.38.1",
